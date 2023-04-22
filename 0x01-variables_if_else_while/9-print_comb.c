@@ -10,14 +10,12 @@ int main(void)
 
 	for (n = 48; n < 58; n++)
 	{
-		if ( n == 57)
-		{
-			putchar(n);
-			continue;
-		}
 		putchar(n);
-		putchar(',');
-		putchar(' ');
+		if (n != 57)
+		{
+			putchar(',');
+			putchar(' ');
+		}
 	}
 	putchar(' ');
 	return (0);
