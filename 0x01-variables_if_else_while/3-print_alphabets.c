@@ -13,7 +13,7 @@ int main(void)
 	{
 		putchar(x);
 	}
-	while (m < 91)
+	while (y < 91)
 	{
 		putchar(y);
 	}
