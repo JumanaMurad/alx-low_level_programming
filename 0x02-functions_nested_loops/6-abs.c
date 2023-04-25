@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * _abs -  description
+ * @i: int
  * Return: abs int
  */
 int _abs(int i)
