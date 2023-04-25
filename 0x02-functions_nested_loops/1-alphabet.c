@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * main _ entry point
+  * print_alphabet  - function prints alphapits
   *
   * Return: always 0
   */
