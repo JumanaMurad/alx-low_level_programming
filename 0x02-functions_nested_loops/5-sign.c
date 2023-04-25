@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * print_sign -  description
+ * @n: int
  * Return: 0 ,1 oe -1
  */
 int print_sign(int n)
